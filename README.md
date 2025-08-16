@@ -2,7 +2,8 @@
 
 A modern, interactive 3D room design application built with Three.js that allows users to create and customize virtual room layouts with realistic furniture and materials.
 
-![Virtual Room Designer](screenshots/app-overview.png)
+![Image](https://github.com/user-attachments/assets/efc4ccbd-6098-4627-81b4-b42740ada392)
+
 
 ## Features
 
@@ -33,6 +34,8 @@ A modern, interactive 3D room design application built with Three.js that allows
   - `Q/E`: Rotate selected object
   - `+/-`: Scale selected object
   - `Delete/Backspace`: Remove selected object
+
+  
 
 ### 🎨 Advanced Rendering
 - **Realistic Lighting**: Directional and ambient lighting with shadow mapping
@@ -102,23 +105,23 @@ Download these texture types:
 
 ## Documentation Assets
 
+
 ### Screenshots Needed
 Create these screenshots for documentation:
 
-1. **app-overview.png** - Main interface showing the 3D room with furniture
-2. **controls-panel.png** - Close-up of the control panel interface  
-3. **furniture-placement.png** - Demonstrating furniture being placed/moved
-4. **lighting-options.png** - Different lighting presets comparison
-5. **materials-showcase.png** - Different wall and floor materials
-6. **mobile-interface.png** - Mobile/responsive view
+1. **app-overview**
+     ![Image](https://github.com/user-attachments/assets/efc4ccbd-6098-4627-81b4-b42740ada392)
+2. **controls** -                                                                                  
+     ![Image](https://github.com/user-attachments/assets/a2374465-c49d-4cfb-9fd4-253c5b7f242b)  
+3. **lighting-options.png**
+     Dim light - ![Image](https://github.com/user-attachments/assets/d4c0e5c7-f702-4321-8090-dcb4e8f75e58)
+     Cold light - ![Image](https://github.com/user-attachments/assets/de176d36-b5fd-444e-b238-b615b80b79ba)
+     Warm light - ![Image](https://github.com/user-attachments/assets/f694132f-ed3f-4316-8b86-a41c1c9147d3)
+
 
 ### Video Demonstrations
-Consider creating these videos:
-
-1. **quick-demo.mp4** (30-60 seconds) - Fast overview of main features
-2. **furniture-placement.mp4** - Detailed furniture interaction demo
-3. **customization-options.mp4** - Showing material and lighting changes
-4. **full-workflow.mp4** - Complete room design from start to finish
+https://github.com/user-attachments/assets/71317cf6-d05b-46fc-94ac-7bbf919527d0
+Youtube - https://youtu.be/1SF3gXjA0HU?si=75lG4zbAHoP9vngQ
 
 ## Browser Compatibility
 
